@@ -334,7 +334,7 @@ static NSString *const kObserverPage = @"currentPage";
         NSLog(@"Controller or view %@",transString);
         NSLog(@"Use new created controller or view %@",transString);
     }
-    self.PageIndex = @"1";
+    self.PageIndex = @"0";
 }
 
 /**
